@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "528882049859",
+    "project_id": "pushnotifexample-e5ea1",
+    "storage_bucket": "pushnotifexample-e5ea1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528882049859:android:96517a2b1d69e7bf0a45f6",
+        "android_client_info": {
+          "package_name": "com.notifexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "528882049859-9ijipsb36khb532pjooof6e7fvdals9r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzxF7cUC-Q4tyVijOMmAgpKaCzwaSVd4w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "528882049859-9ijipsb36khb532pjooof6e7fvdals9r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
